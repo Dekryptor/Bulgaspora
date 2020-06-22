@@ -1,4 +1,4 @@
-# Bulgaspora
+# 5richSoft Games
 
 Site | Downloads | Version | Link |
 ------------ | ------------- | ------------- | ------------- |
